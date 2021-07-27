@@ -1,1 +1,7 @@
-# baizheshichen
+败者食尘！
+这是一个可以为gif文件创建倒放gif文件的小工具。
+使用方法
+把目标gif拖到exe文件上
+
+注意:同文件夹内不要有名为images的文件夹（否则会被删除
+不要有名为baizheshichen！的文件（否则会被覆盖
